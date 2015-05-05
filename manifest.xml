@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<App uuid="184fdfa9-212c-41e6-92ef-e5bccf4c76">
+   <Name>PPT/PPS File</Name>
+   <Author>Incomedia</Author>
+   <Version>3</Version>
+   <Category>Widgets</Category>
+   <Description l10n-id="description">Show a Microsoft Powerpoint PPT/PPS file on a page.</Description>
+   <ShowPreview>True</ShowPreview>
+   <Parameters>
+      <Tab>
+		<Fields>
+			<Field type="text" id="fileurl">
+				<Extensions>ppt,pps</Extensions>
+				<Label l10n-id="fileurl">Local PPT/PPS file:</Label>
+				<DefaultValue>http://</DefaultValue>
+				<UpdatesPreview>true</UpdatesPreview>
+			</Field>
+			<Field type="number" id="height">
+				<DefaultValue>350</DefaultValue>
+				   <MinValue>0</MinValue>
+				   <MaxValue>1000</MaxValue>
+				   <Increment>1</Increment>
+				<Label>Height:</Label>
+				<UpdatesPreview>true</UpdatesPreview>
+			 </Field>
+         </Fields>
+         <ShowPreview>True</ShowPreview>
+      </Tab>
+   </Parameters>
+   <Hooks>
+		function IsEmpty() {
+			return parameters.fileurl.value.length == 0 || parameters.fileurl.value == "http://";
+		}
+	</Hooks>
+   <Output>
+	   <![CDATA[
+	<!-- Documents.PPT File: START -->
+ <iframe src="<?wsx5 document.write(parameters.fileurl.value) ?>" scrolling="no" frameborder="no" style="border:none; overflow:hidden; width:100%; height: <?wsx5 document.write(parameters.height.value) ?>px;" allowTransparency="true"></iframe>
+  <!-- Documents.PPT File: END -->
+   ]]>
+   </Output>
+</App>
+

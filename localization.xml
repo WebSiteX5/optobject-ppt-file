@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebsiteX5LanguagesLibrary xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Languages>
+    <Language>
+      <Code><![CDATA[BG]]></Code>
+      <Name><![CDATA[Bulgarian]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Покаване наMicrosoft PowerPoint PPT/PPS файл на тази страница.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>Файл от Интернет:</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Височина:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[BR]]></Code>
+      <Name><![CDATA[Brasilian]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Mosrar um arquivo PPT/PPS Microsoft Powerpoint na página.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>Arquivo da internet:</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Altura:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[CZ]]></Code>
+      <Name><![CDATA[Czech]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Na stránce zobrazit soubor Microsoft PowerPoint PPT/PPS.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>Internetový soubor:</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Výška:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[DA]]></Code>
+      <Name><![CDATA[Dansk]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Vis en Microsoft Powerpoint PPT/PPS fil på siden.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>Internet fil:</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Højde:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[DE]]></Code>
+      <Name><![CDATA[German]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Eine Datei im Format Microsoft PowerPoint PPT/PPS auf der Seite anzeigen.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>Datei im Internet:</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Höhe:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[EN]]></Code>
+      <Name><![CDATA[English]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Show a Microsoft PowerPoint PPT/PPS file on the page.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>Internet File:</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Height:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[ES]]></Code>
+      <Name><![CDATA[Spanish]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Mostrar un archivo Microsoft PowerPoint PPT/PPS en la página.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>Archivo de Internet:</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Altura:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[FR]]></Code>
+      <Name><![CDATA[French]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Afficher un diaporama Microsoft PowerPoint PPT / PPS dans la page.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>Fichier Internet :</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Hauteur :</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[GR]]></Code>
+      <Name><![CDATA[Greek]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Εμφάνιση αρχείου Microsoft PowerPoint PPT/PPS στη σελίδα.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>Αρχείο Internet:</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Ύψος:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[HU]]></Code>
+      <Name><![CDATA[Hungarian]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Microsoft PowerPoint PPT/PPS fájl megjelenítése az oldalon.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>Internetfájl:</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Magasság:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[IT]]></Code>
+      <Name><![CDATA[Italian]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Mostra un file Microsoft PowerPoint PPT/PPS nella pagina.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>File su Internet:</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Altezza:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[NL]]></Code>
+      <Name><![CDATA[Dutch]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Een Microsoft PowerPoint PPT/PSS-bestand weergeven op de pagina.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>Internetbestand:</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Hoogte:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[PL]]></Code>
+      <Name><![CDATA[Polish]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Pokaż na stronie plik Microsoft PowerPoint PPT/PPS.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>Plik internetowy:</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Wysokość:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[RU]]></Code>
+      <Name><![CDATA[Russian]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Отображать на странице файлы Microsoft PowerPoint PPT/PPS.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>Файл в Интернет:</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Высота:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[SK]]></Code>
+      <Name><![CDATA[Slovak]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Na stránke zobraziť súbor Microsoft PowerPoint PPT/PPS.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>Súbor z internetu:</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Výška:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[TR]]></Code>
+      <Name><![CDATA[Turkish]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>SSayfada bir Microsoft PowerPoint PPT/PPS dosyası görüntüle.</Value>
+        </Localization>
+        <Localization>
+          <Key>fileurl</Key>
+          <Value>İnternet Dosyası:</Value>
+        </Localization>
+        <Localization>
+          <Key>height</Key>
+          <Value>Yükseklik:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+  </Languages>
+</WebsiteX5LanguagesLibrary>
